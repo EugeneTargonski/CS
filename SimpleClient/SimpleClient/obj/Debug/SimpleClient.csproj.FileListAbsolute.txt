@@ -1,0 +1,7 @@
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csprojResolveAssemblyReference.cache
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.CoreCompileInputs.cache
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+c:\users\eugeny_t\source\repos\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
