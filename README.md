@@ -1,1 +1,1 @@
-# CS
+# Simple Client-Server sample
