@@ -1,7 +1,0 @@
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe.config
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csproj.CoreCompileInputs.cache
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
-C:\Users\eugeny_t\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
